@@ -1,5 +1,5 @@
 # Pathport
-Networking docker-containers across hosts
+**_Networking docker-containers across hosts_**
 
 Pathport is a network configuration tool to connect docker-containers across multi-hosts. Containners benefit from Pathport's key features:
 * Overlayed logical networks supported by VXLAN/GRE.
